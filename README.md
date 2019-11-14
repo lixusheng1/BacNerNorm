@@ -6,7 +6,7 @@ nltk
 spacy
 scispacy
 
-How to train a model
+# How to train a model
 1. You should get a word embedding file ,such as word2vec,glove,fastext . And download this file to the /embedding
 
 2. python build_data.py
