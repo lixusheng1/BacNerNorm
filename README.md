@@ -1,4 +1,4 @@
-#  bacterial named entity recognition and normalization
+#  Bacterial named entity recognition and normalization
 
 the python package:
 tensowflow
